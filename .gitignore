@@ -3,3 +3,4 @@
 vendor
 docker/.composer/*
 .phpunit.result.cache
+.DS_Store
